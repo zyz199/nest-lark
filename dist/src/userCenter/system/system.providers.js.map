@@ -1,1 +1,0 @@
-{"version":3,"file":"system.providers.js","sourceRoot":"","sources":["../../../../src/userCenter/system/system.providers.ts"],"names":[],"mappings":";;;AAAA,+DAA+C;AAElC,QAAA,eAAe,GAAG;IAC7B;QACE,OAAO,EAAE,mBAAmB;QAC5B,UAAU,EAAE,CAAC,aAAa,EAAE,EAAE,CAAC,aAAa,CAAC,aAAa,CAAC,4BAAM,CAAC;QAClE,MAAM,EAAE,CAAC,mBAAmB,CAAC;KAC9B;CACF,CAAC"}

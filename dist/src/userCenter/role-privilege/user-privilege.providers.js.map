@@ -1,1 +1,0 @@
-{"version":3,"file":"user-privilege.providers.js","sourceRoot":"","sources":["../../../../src/userCenter/role-privilege/user-privilege.providers.ts"],"names":[],"mappings":";;;AAAA,+EAA8D;AAEjD,QAAA,sBAAsB,GAAG;IACpC;QACE,OAAO,EAAE,2BAA2B;QACpC,UAAU,EAAE,CAAC,aAAa,EAAE,EAAE,CAAC,aAAa,CAAC,aAAa,CAAC,2CAAa,CAAC;QACzE,MAAM,EAAE,CAAC,mBAAmB,CAAC;KAC9B;CACF,CAAC"}

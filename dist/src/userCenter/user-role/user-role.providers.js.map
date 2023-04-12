@@ -1,1 +1,0 @@
-{"version":3,"file":"user-role.providers.js","sourceRoot":"","sources":["../../../../src/userCenter/user-role/user-role.providers.ts"],"names":[],"mappings":";;;AAAA,qEAAoD;AAEvC,QAAA,iBAAiB,GAAG;IAC/B;QACE,OAAO,EAAE,sBAAsB;QAC/B,UAAU,EAAE,CAAC,aAAa,EAAE,EAAE,CAAC,aAAa,CAAC,aAAa,CAAC,iCAAQ,CAAC;QACpE,MAAM,EAAE,CAAC,mBAAmB,CAAC;KAC9B;CACF,CAAC"}

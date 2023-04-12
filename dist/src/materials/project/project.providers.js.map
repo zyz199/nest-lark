@@ -1,1 +1,0 @@
-{"version":3,"file":"project.providers.js","sourceRoot":"","sources":["../../../../src/materials/project/project.providers.ts"],"names":[],"mappings":";;;AAAA,iEAAiD;AAEpC,QAAA,gBAAgB,GAAG;IAC9B;QACE,OAAO,EAAE,oBAAoB;QAC7B,UAAU,EAAE,KAAK,EAAE,aAAa,EAAE,EAAE,CAClC,MAAM,aAAa,CAAC,aAAa,CAAC,8BAAO,CAAC;QAC5C,MAAM,EAAE,CAAC,qBAAqB,CAAC;KAChC;CACF,CAAC"}
