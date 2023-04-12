@@ -1,0 +1,1 @@
+{"version":3,"file":"resource.providers.js","sourceRoot":"","sources":["../../../../src/userCenter/resource/resource.providers.ts"],"names":[],"mappings":";;;AAAA,mEAAmD;AAEtC,QAAA,iBAAiB,GAAG;IAC/B;QACE,OAAO,EAAE,qBAAqB;QAC9B,UAAU,EAAE,CAAC,aAAa,EAAE,EAAE,CAAC,aAAa,CAAC,aAAa,CAAC,gCAAQ,CAAC;QACpE,MAAM,EAAE,CAAC,mBAAmB,CAAC;KAC9B;CACF,CAAC"}
