@@ -3,8 +3,8 @@ MYSQL_CONFIG:
   type: "mysql"
   host: "127.0.0.1"
   port: 3306
-  username: "yanxiaofan"
-  password: "123456"
+  username: "root"
+  password: "12345678"
   database: "user-test"
   entities: "mysql"
   synchronize: true
@@ -17,6 +17,6 @@ REDIS_CONFIG:
 FEISHU_CONFIG:
   FEISHU_URL: https://open.feishu.cn/open-apis
   FEISHU_API_HOST: https://open.feishu.cn
-  FEISHU_APP_ID: cli_****************
-  FEISHU_APP_SECRET: *******************
+  FEISHU_APP_ID: cli_a4bea068f379900e
+  FEISHU_APP_SECRET: Mx8cVEbNWb2p00gavt67RcTBWWHq7MBJ
 APP_TOKEN_CACHE_KEY: APP_TOKEN_CACHE_KEY
